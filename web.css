@@ -85,6 +85,19 @@ body {
     padding-top: 25px;
 }
 
+.heading {
+    text-align: center;
+}
+
+.description{
+    text-align: center;
+}
+
+.muka {
+    display: block;
+    margin: auto;
+}
+
 .left-content {
     width: 83%;
     margin-left: auto;
@@ -97,6 +110,7 @@ body {
     box-shadow: 1px 2px 3px #ddd;
     background: #fff;
     margin-bottom: 25px;
+    border-radius: 25px;
 }
 
 .left-content .article .heading {
